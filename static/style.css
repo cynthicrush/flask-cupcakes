@@ -1,0 +1,13 @@
+* {
+  list-style-type: none;
+}
+
+.cupcake-image{
+  width: 300px;
+  height: 300px;
+  object-fit: cover;
+}
+
+label {
+  display: block;
+}
